@@ -5,7 +5,7 @@ Smart agenda for calendar year 2021 using PDF.
 Months and days are clickable, allowing for easy navigation and one stop shop for your note-taking throughout the year.
 
 Tested with:
-- Notes (iOS,ipadOS, macOS)
+- Notes (iOS, ipadOS, macOS)
 - Notability
 - GoodNotes
 
